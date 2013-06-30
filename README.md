@@ -1,14 +1,18 @@
-# detect [dirname]
+# detect
 
 Simple C program to detect type of project based on in-directory filename heuristics.
 Filename detection is case-insensitive.
 
 Outputs all detected project types, one per line.
 
+## usage
+
+    > detect [dirname]
+
 ## Install
 
-  > cd detect
-  > make install
+    > cd detect
+    > make install
 
 ## Supports:
 
